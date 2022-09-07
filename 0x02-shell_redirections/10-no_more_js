@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'rm -R *.js'
+echo 'rm -f *.js'
